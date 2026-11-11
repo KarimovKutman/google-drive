@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GoogleDrivveApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(GoogleDrivveApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(GoogleDrivveApplication.class, args);
+    }
 }
